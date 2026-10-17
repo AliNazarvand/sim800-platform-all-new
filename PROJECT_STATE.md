@@ -13,12 +13,12 @@ Implementation complete for local build v0.1.0. No remote is configured and no p
 | 5 | T-005 | QA, documentation and packaging | Done |
 
 ## Memory Bank
-- Completed: package migration to underscore names, driver, adapter, validator, diff engine, CLI, schemas, dataset provenance, QA reports.
+- Completed: package migration to underscore names, driver, adapter, validator, diff engine, CLI, schemas, planning DAG, multi-version extraction, QA reports, per-PDF spot checks and release packaging.
 - Key decision: `jsonschema` is the validation library; see `docs/adr/ADR-001-validation-library-choice.md`.
 - Assumptions: MIT is used for project code and schemas; source PDF license remains SimCom-owned.
-- Open questions: cross-version deprecation requires row-level verification for all three manuals; `deprecated_commands.jsonl` is intentionally empty.
+- Open questions: removed command identifiers are recorded as deprecation candidates and retain an explicit row-level confirmation note; semantic replacements are not inferred.
 - Environment persistence: yes (workspace files persisted during this session).
 - Last task: packaging and local tag.
 - Cumulative credit: Estimated; platform credit telemetry unavailable.
 - Datasheets: 13 discovered; 3 AT manuals, 10 hardware designs; encrypted files were not decrypted.
-- Minimum records: commands 50, deprecated_commands 0 pending verification, error_codes 1, commands_versions 50.
+- Products: commands 357, deprecated command candidates 43, error codes 255 (128 CME + 127 CMS), command-version rows 1095, spot-check reports 13.
