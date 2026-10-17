@@ -1,0 +1,46 @@
+ID,Package,Name,Description,Strategy,Level,Phase,Effort,Priority,Acceptance_Criteria
+drv_01,sim800-driver,UART Transport Layer,UART transport with Flow Control support,TinyGSM,3,,S,P0,Direct use of GSMStream
+drv_02,sim800-driver,HAL (UART/GPIO/Timer),Hardware abstraction for ESP32/STM32/AVR,TinyGSM,3,,S,P0,ESP32/STM32/AVR support
+drv_03,sim800-driver,AT Parser Library,Parser with validation from dat_01,Hybrid,5,,M,P1,100% parse of standard responses
+drv_04,sim800-driver,URC Dispatcher,URC dispatcher based on dat_02,Custom,2,Phase 3,M,P0,100% URC detection with Callback
+drv_05,sim800-driver,Command Manager / Scheduler,Queue management and command scheduling,Custom,5,,M,P1,Queue of 50+ commands with priority
+drv_06,sim800-driver,Service Layer (+ Time/NTP),High-level service layer (SMS/GPRS/HTTP),Custom,5,,M,P1,Unified API for all services
+drv_07,sim800-driver,State Machine Engine,State machine engine with automatic recovery,Custom,2,Phase 3,L,P0,Auto-recovery from 90% of errors
+drv_08,sim800-driver,Power Management Module,Advanced power management,Custom,5,,M,P1,4 sleep modes with full management
+drv_09,sim800-driver,RI/Interrupt Handling,RI pin and interrupt handling,Custom,5,,M,P1,Response <10ms to RI
+drv_10,sim800-driver,Concurrency (RTOS Locks/Queues),Concurrency management for FreeRTOS,Custom,4,,L,P2,Fully thread-safe
+drv_11,sim800-driver,Security (SSL/OTA Sign),Filling TinyGSM's SSL gap,Custom,2,Phase 3,L,P0,Reliable HTTPS on 3+ firmwares
+drv_12,sim800-driver,Logging & Telemetry,Leveled logging with debugging capability,Custom,5,,M,P1,5 log levels with filter
+drv_13,sim800-driver,Local Firmware Upgrade,Firmware update via UART,Custom,4,,L,P3,Deferred
+drv_14,sim800-driver,Data Mode / PPP,PPP mode for transparent connection,TinyGSM,3,,S,P2,Direct use
+drv_15,sim800-driver,Call Management,Voice call management,Custom,4,,M,P2,Answer/reject/terminate call
+drv_16,sim800-driver,Audio Module,Audio management,Custom,4,,M,P3,Deferred
+adp_01,sim800-adapter,TinyGSM Wrapper Class,Thin wrapper over TinyGsm,Custom,2,Phase 3,M,P0,Unified API with State Engine
+adp_02,sim800-adapter,MTU-Aware Chunking Layer,Automatic chunking of data >1449 chars,Custom,2,Phase 3,M,P0,1MB+ send without errors
+adp_03,sim800-adapter,SSL Bridge Layer,Bridge between dat_11 and SSLClient,Custom,2,Phase 3,M,P0,Successful HTTPS on SIM800L
+adp_04,sim800-adapter,Error Recovery Hook,Connecting dat_03 to TinyGSM,Custom,2,Phase 3,M,P1,Auto-recovery from 80% of errors
+adp_05,sim800-adapter,Multi-Modem Abstraction,Automatic module selector,Custom,5,,M,P1,3+ modules with one API
+adp_06,sim800-adapter,Flow-Control Enabler,Automatic RTS/CTS enabling,Custom,5,,S,P2,"Enable AT+IFC=2,2"
+tol_01,sim800-tools,Generator (YAML to C++/JSON),Code generation from YAML data,Custom,1,Phase 2,L,P0,Generate .h/.cpp/.json
+tol_02,sim800-tools,Docs Generator,Documentation generation from data,Custom,5,,M,P1,Markdown + HTML
+tol_03,sim800-tools,Mock / Simulator,Module simulator for testing,Custom,5,,L,P1,Responds to 100+ commands
+tol_04,sim800-tools,Test Suite (Host + HW),Test suite on host and hardware,Custom,5,,L,P1,80%+ code coverage
+tol_05,sim800-tools,Validation Scripts,Data schema validation,Custom,1,Phase 2,M,P0,100% records valid
+tol_06,sim800-tools,CI/CD Pipeline,CI/CD pipeline,Custom,5,,M,P1,GitHub Actions
+tol_07,sim800-tools,JSON Schema,JSON schemas for data,Custom,1,Phase 2,,P0,Available and complete
+tol_08,sim800-tools,Versioning & Migration,Versioning and migration tools,Custom,5,,M,P2,Semantic Versioning
+tol_09,sim800-tools,Serial Monitor / GUI,Serial monitor and debugger,Custom,5,,M,P2,Live AT display
+doc_01,sim800-docs,Architecture Docs,Architecture documentation,Custom,5,,M,P1,Diagram + text
+doc_02,sim800-docs,API Reference,API reference,Custom,5,,M,P1,Auto-generated
+doc_03,sim800-docs,Diagrams,State and sequence diagrams,Custom,5,,M,P2,20+ diagrams
+doc_04,sim800-docs,Getting Started Guide,Quick start guide,Custom,1,Phase 2,S,P0,5 minutes to first SMS
+doc_05,sim800-docs,License,GPLv3 license for Dual Licensing,Custom,1,Phase 2,S,P0,LICENSE file
+doc_06,sim800-docs,Contributing Guide,Contribution guide,Custom,5,,S,P2,CONTRIBUTING.md
+doc_07,sim800-docs,Troubleshooting Guide,Troubleshooting guide,Custom,5,,M,P1,50+ common issues
+doc_08,sim800-docs,Glossary,Glossary,Custom,4,,S,P3,100+ terms
+doc_09,sim800-docs,Migration Guide,Migration guide from TinyGSM,Custom,4,,M,P3,Step-by-step guide
+exm_01,sim800-examples,ESP32 Examples,ESP32 examples,Custom,5,,M,P1,10+ examples
+exm_02,sim800-examples,STM32 Examples,STM32 examples,Custom,4,,M,P2,5+ examples
+exm_03,sim800-examples,Multi-Module Selection Demo,Module selection demo,Custom,4,,S,P2,3 modules
+exm_04,sim800-examples,Configuration Templates,Configuration templates,Custom,5,,S,P1,5+ templates
+exm_05,sim800-examples,Framework Adapters,Framework adapters,Custom,4,,M,P3,ESP-IDF/STM32Cube
