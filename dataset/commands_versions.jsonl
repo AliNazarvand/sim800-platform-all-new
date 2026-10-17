@@ -1,0 +1,360 @@
+{"command": "AT+CACM", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CACM", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CACM", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CADC", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CADC", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CADC", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CAGCSET", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CAGCSET", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CAGCSET", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CALA", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CALA", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CALA", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CALD", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CALD", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CALD", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CALM", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CALM", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CALM", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CALS", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CALS", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CALS", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CAMM", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CAMM", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CAMM", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CANT", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CANT", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CANT", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CAOC", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CAOC", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CAOC", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CBAND", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CBAND", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CBAND", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CBATCHK", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CBATCHK", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CBATCHK", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CBC", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CBC", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CBC", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CBST", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CBST", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CBST", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CBUZZER", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CBUZZER", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CBUZZER", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CBUZZERRING", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CBUZZERRING", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CBUZZERRING", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CCALR", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CCALR", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CCALR", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CCFC", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CCFC", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CCFC", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CCID", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CCID", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CCID", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CCLK", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CCLK", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CCLK", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CCODE", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CCODE", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CCODE", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CCONCIND", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CCONCIND", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CCONCIND", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CCONCINDEX", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CCONCINDEX", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CCONCINDEX", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CCPD", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CCPD", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CCPD", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CCVM", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CCVM", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CCVM", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CCWA", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CCWA", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CCWA", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CCWE", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CCWE", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CCWE", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CDEVICE", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CDEVICE", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CDEVICE", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CDNSCFG", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CDNSCFG", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CDNSCFG", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CDNSGIP", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CDNSGIP", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CDNSGIP", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CDRIND", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CDRIND", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CDRIND", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CDSCB", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CDSCB", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CDSCB", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CEER", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CEER", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CEER", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CEGPRS", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CEGPRS", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CEGPRS", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CELLIST", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CELLIST", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CELLIST", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CEMNL", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CEMNL", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CEMNL", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CENG", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CENG", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CENG", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CEXBUT", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CEXBUT", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CEXBUT", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CEXTERN", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CEXTERN", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CEXTERN", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CEXTERNT", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CEXTERNT", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CEXTERNT", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CEXTERNTONE", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CEXTERNTONE", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CEXTERNTONE", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CEXTHS", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CEXTHS", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CEXTHS", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CFGRI", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CFGRI", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CFGRI", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CFUN", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CFUN", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CFUN", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CGACT", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CGACT", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CGACT", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CGATT", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CGATT", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CGATT", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CGCLASS", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CGCLASS", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CGCLASS", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CGDATA", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CGDATA", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CGDATA", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CGDCONT", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CGDCONT", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CGDCONT", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CGEREP", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CGEREP", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CGEREP", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CGID", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CGID", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CGID", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CGMI", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CGMI", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CGMI", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CGMM", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CGMM", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CGMM", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CGMR", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CGMR", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CGMR", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CGMSCLA", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CGMSCLA", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CGMSCLA", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CGMSCLASS", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CGMSCLASS", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CGMSCLASS", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CGPADDR", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CGPADDR", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CGPADDR", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CGPIO", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CGPIO", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CGPIO", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CGQMIN", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CGQMIN", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CGQMIN", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CGQREQ", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CGQREQ", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CGQREQ", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CGREG", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CGREG", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CGREG", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CGSMS", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CGSMS", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CGSMS", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CGSN", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CGSN", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CGSN", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CHF", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CHF", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CHF", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CHFA", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CHFA", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CHFA", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CHLD", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CHLD", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CHLD", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CHUP", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CHUP", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CHUP", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIFSR", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIFSR", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIFSR", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIICR", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIICR", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIICR", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIMI", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIMI", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIMI", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPACK", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPACK", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPACK", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPATS", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPATS", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPATS", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPBEIPING", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPBEIPING", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPBEIPING", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPCCFG", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPCCFG", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPCCFG", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPCLOSE", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPCLOSE", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPCLOSE", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPCSGP", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPCSGP", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPCSGP", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPCTL", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPCTL", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPCTL", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPDPDP", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPDPDP", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPDPDP", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPFLT", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPFLT", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPFLT", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPGSMLOC", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPGSMLOC", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPGSMLOC", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPHEAD", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPHEAD", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPHEAD", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPMODE", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPMODE", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPMODE", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPMUX", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPMUX", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPMUX", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPPING", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPPING", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPPING", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPQSEND", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPQSEND", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPQSEND", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPRDTIM", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPRDTIM", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPRDTIM", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPRDTIMER", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPRDTIMER", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPRDTIMER", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPRXGET", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPRXGET", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPRXGET", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPSCONT", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPSCONT", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPSCONT", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPSEND", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPSEND", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPSEND", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPSERVE", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPSERVE", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPSERVE", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPSERVER", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPSERVER", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPSERVER", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPSGTXT", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPSGTXT", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPSGTXT", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPSHOWTP", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPSHOWTP", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPSHOWTP", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPSHUT", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPSHUT", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPSHUT", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPSPRT", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPSPRT", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPSPRT", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPSRIP", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPSRIP", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPSRIP", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPSTART", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPSTART", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPSTART", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPSTATU", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPSTATU", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPSTATU", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPSTATUS", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPSTATUS", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPSTATUS", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPTKA", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPTKA", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPTKA", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPUDPMOD", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPUDPMOD", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPUDPMOD", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPUDPMODE", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPUDPMODE", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIPUDPMODE", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIURC", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIURC", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CIURC", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CLCC", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CLCC", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CLCC", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CLCK", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CLCK", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CLCK", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CLDTMF", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CLDTMF", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CLDTMF", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CLIP", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CLIP", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CLIP", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CLIR", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CLIR", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CLIR", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CLIST", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CLIST", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CLIST", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CLPORT", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CLPORT", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CLPORT", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CLTS", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CLTS", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CLTS", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CLVL", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CLVL", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CLVL", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CMEDIAVO", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CMEDIAVO", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CMEDIAVO", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CMEDIAVOL", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CMEDIAVOL", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CMEDIAVOL", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CMEDPLA", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CMEDPLA", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CMEDPLA", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CMEDPLAY", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CMEDPLAY", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CMEDPLAY", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CMEE", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CMEE", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CMEE", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CMGD", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CMGD", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CMGD", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CMGDA", "version": "V1.01", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CMGDA", "version": "V1.10", "supported": true, "notes": null, "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}
+{"command": "AT+CMGDA", "version": "V1.12", "supported": false, "notes": "Not verified from an unencrypted source in this run", "source": "SIM800 Series_AT Command Manual_V1.10.pdf"}

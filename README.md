@@ -102,3 +102,7 @@ text
 
 **From this point forward: data only.**
 
+
+## Implemented platform (v0.1.0)
+
+The repository now contains working underscore-named packages: `sim800_driver`, `sim800_adapter`, `sim800_validation`, `sim800_diffing`, and `sim800_tools`. Install with `python3 -m pip install -e '.[dev]'`, validate with `python scripts/validate_dataset.py`, and inspect `ARCHITECTURE.md` for the data flow. The code and schemas use MIT; the external SimCom datasheets retain their original ownership and are excluded from release archives.
